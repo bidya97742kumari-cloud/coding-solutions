@@ -29,7 +29,7 @@ For each line, print the line number, followed by a single space, and then the l
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-13T17:44:49.441Z  
+**Submitted:** 2026-10-13T17:44:51.312Z  
 
 ```java
 import java.io.*;
