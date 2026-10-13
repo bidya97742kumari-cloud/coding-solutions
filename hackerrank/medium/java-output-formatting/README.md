@@ -24,7 +24,7 @@ The second column contains the *integer*, expressed in exactly $3$ digits; if th
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-13T17:45:53.349Z  
+**Submitted:** 2026-10-13T17:45:50.302Z  
 
 ```java
 import java.util.Scanner;
