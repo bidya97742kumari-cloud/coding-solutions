@@ -25,7 +25,7 @@ Explanation: Numbers from 0 to 5 in increasing order are 0 1 2 3 4 5.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-28T17:30:59.272Z  
+**Submitted:** 2026-10-28T17:31:54.702Z  
 
 ```java
 import java.util.Scanner;
